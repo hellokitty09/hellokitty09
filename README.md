@@ -1,5 +1,9 @@
+<header>
+  <div align="center">
+    <img src="Ranveer.png" alt="Ranveer - Header" style="width: 100%; border-radius: 8px;">
+  </div>
+</header>
 <br clear="both">
-
 <h5 align="center">R A N V E E R<br>Software Engineer • Web3 & AI • VJTI '28<br><br>OVERVIEW<br>Computer Science undergraduate building resilient digital infrastructure. Passionate about the intersection of autonomous AI, decentralized economies, and offline-first technology for social impact.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>FEATURED WORK<br><br>✦ SynthCity<br>↳ An autonomous prediction protocol and 3D digital civilization. Independent AI agents analyze financial data, trade in a crypto-based economy, and acquire virtual real estate based on market accuracy.<br><br>✦ Arogya Sahayak<br>↳ An offline-first mobile ecosystem designed to digitize healthcare workflows and empower rural ASHA workers in India.<br><br>✦ Web3 Governance<br>↳ A decentralized donation platform architected to enforce radical transparency in political funding.<br><br>✦ Zulip (Open Source)<br>↳ Active contributor optimizing high-scale global communication workflows.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>TECHNICAL EXPERTISE<br><br>▹ Core: C++, Python, JavaScript, Solidity<br>▹ Frameworks: React, Flutter, FastAPI, Node.js<br>▹ Data & Sec: PostgreSQL, ER Modeling, Kali Linux, Smart Contracts<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>ACHIEVEMENTS & LEADERSHIP<br><br>• Winner: Smart India Hackathon (College Tier)<br>• Department Head: Pratibimb Cultural Fest, VJTI<br>• Defense Aspirant: Preparing for the Combined Defence Services (CDS) to join the Indian Armed Forces.</h5>
 
 ###
